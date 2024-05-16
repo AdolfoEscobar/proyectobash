@@ -45,4 +45,4 @@ Siéntete libre de contribuir al código.
 
 ## Autor
 
-Este script fue desarrollado por ADOLFO ESCOBAR PEREYRA 362839.
+Este script fue desarrollado por ADOLFO ESCOBAR PEREYRA
