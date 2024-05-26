@@ -42,7 +42,3 @@ El script proporciona las siguientes funcionalidades para cada metodología sele
 ## Contribuciones
 
 Siéntete libre de contribuir al código.
-
-## Autor
-
-Este script fue desarrollado por ADOLFO ESCOBAR PEREYRA
